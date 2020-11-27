@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8d2cf3e5613f73742a081a54f43e7380
+timeCreated: 1548325007
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: www.Natilos.iR
+  fontNames:
+  - www.Natilos.iR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8b4a2d313fbf8be42b00f19517e695cc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
